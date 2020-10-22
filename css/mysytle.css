@@ -1,0 +1,80 @@
+
+h1{
+	color:yellow;
+	border:5px;
+	text-align:center;
+	border-radius:20%;
+	font-weight:bolder;
+	font-family: cursive;
+	padding: 0.5px;
+	margin:10px;
+	width: 500px;
+	font-size:x-large; 
+	background-image: url(../images/20.jpg);
+	background-size:cover;
+	background-attachment: fixed;
+	
+}
+
+
+div{border:4px 3px 4px 3px;
+	margin:30pt;
+	padding:10px;	
+	border-radius:5px;
+	background-image: url(../images/25.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
+
+}
+
+#me{
+	float: right;
+	border:none;
+}
+ .form-input{
+ 	font-style: bold;
+ 	color:red;
+ 	font-size:20px;
+ 	opacity:0.5pt
+ 	font-style:italic;
+ 	font-family:cursive;
+ 	font-weight:bolder;
+ }
+ 
+label{color: green;
+  	text-transform: uppercase;
+  	font-family: cursive;
+  	font: italic;
+  	font-size: large;
+  	padding:10pt;
+  	margin: 5pt;
+  }
+  
+  input{
+  	color:blue;
+  	background-image:url(images/25.jpg);
+  	background-size: cover;
+  	border-radius: 20px;
+  }
+
+  video{
+  	width:10%; 
+  	border:5px;
+  	border-radius: 50%;
+}
+
+ audio{
+ 	float: right;
+ 	border:5px solid grey;
+ 	background-color:grey;
+ 	
+
+ }
+
+ 
+ 
+
+ 	
+
+
+

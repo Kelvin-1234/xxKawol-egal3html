@@ -1,0 +1,18 @@
+.col1{
+	background-color: silver;
+	color: gold;
+	margin-top: 50px;
+}
+.col2{
+	background-color: blue;
+	color: gold;
+	margin-top: 50px;
+}
+.nested-col-one{
+	background-color: grey;
+	color:gold;
+}
+.nested-col-two{
+	background-color: orange;
+	color: green;
+}

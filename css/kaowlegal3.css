@@ -1,0 +1,145 @@
+                                    .info{   
+									    margin-top:-40px;
+									   margin-right: 500px;
+									   margin-left: 20px;
+									   border:0px solid#7d2e2c;
+									   width: 850px;
+									  height: 40pt; 
+								      background-color: #7d2e2c;
+}
+
+                                   #info{
+									width:60px;
+									margin-top:150px;
+									margin-left: 20px;
+									margin-right: 4000px;
+									border:none;
+}                                  .input{
+										width:93.7%;
+										border: 1px solid #80808008;
+										width: 850px;
+										margin-left: 20px;
+										margin-right: 50px;
+										margin-top: 0px;
+										background-color:#8080803b;
+										background-size: cover;
+}
+                                form{
+									 text-align:center;
+											
+}
+								label{
+								color: black;
+								font-size:11px;
+								font-weight:bolder;
+								display: inline-block;
+								text-align: left;
+								margin-left: 3px;
+								margin-right:450px;
+								margin-bottom: 10px;
+}                               .body h4{
+										 font-size: 15px;
+										 font-family: sans-serif;
+										 word-spacing: 5px;
+										 letter-spacing: 1px;
+									    position: relative;
+									    margin-top:15px;
+									    margin-left: 100px;
+}
+					          h4{
+					            text-align: center;
+								margin-right:100px;
+								margin-top: 60px;
+}
+                              #item{
+                                      margin-left:120px;
+                                      font-size:15px;
+                                      font-weight:bolder;
+                                      font-family: sans-serif;
+                                      word-spacing: 5px;
+                                      letter-spacing: 5px;
+
+ }
+                                #up{
+									 margin-left:160px;
+									 font-size: 15px;
+									font-family: sans-serif;
+                                    word-spacing: 5px;
+                                    letter-spacing: 5px;
+								   display: inline-block;
+ }
+                                 #submit{
+										width:11%;
+										margin-right:440px;
+										margin-left:25px;
+										margin-top:5px;
+										font-family: sans-serif;
+										word-spacing: 8px;
+										letter-spacing: 4px;
+										text-align: left;
+										background-color:#0d5fa7e8;
+										color: grey; 
+										font-size: 15px;
+										font-weight: bolder;
+										border:none;
+										border-radius: 3px;
+}
+                                     code{
+                                      background-color:#7d2e2c;
+                                      color:white;
+                                      font-size:13px;
+                                      font-family: sans-serif;
+                                      word-spacing: 2px;
+                                      letter-spacing: 3px;
+                                      
+                                      
+}
+                                #style{ 
+										width:16px; 
+										float: right;
+										margin-right:200px;
+										margin-top:-25px;
+										border:none;
+									    border-radius: none;
+										background-color:#7d2e2c;
+										background-size: contain;
+}
+							.tweeter{
+									  width: 20px;
+									  position:relative; 
+									 float:right;
+									 border:none;
+									 margin-top:-25px;
+									 margin-right: 150px;
+									 color: green;
+}
+							 .linkedin{
+										width:15px; 
+									   float: right;
+									   border:none;
+									  margin-top: -25px;
+									  margin-right: 100px;
+									  color: #7d2e2c;
+}
+							    .instagram{ 
+										    width: 30px; 
+											float: right;
+										    margin-top:-25px;
+										    background-color: #7d2e2c;
+											border: none;
+										     margin-right: 50px;
+}
+                                 div footer{
+  	                                        border:5px solid #7d2e2c;
+  	                                        background-color:#7d2e2c;
+  	                                        margin-top: -25px;
+  	                                        width:85%;
+  	                                        margin-left:100px;
+}
+                                 
+                                 h5{
+                                    margin-top:5px;
+                                    margin-left: 100px;
+                                    font-size: 10px;
+                                    color: white;
+}

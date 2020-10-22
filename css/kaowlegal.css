@@ -1,0 +1,117 @@
+                              
+                              /*style all the element*/
+                                .container{
+										    margin-top:70px;
+										    width: 70%;
+										    height:300px;
+										    position: absolute;
+										    right: 30px;
+										    left:30px;
+										    top:-60px;
+										    display: inline-block;
+}
+                                                     
+                                .jumbotron{
+										    background-image: url(../images/come.png);
+										    background-size:cover;
+										    border-radius:none;
+										    border: 1px solid black;
+										    height: 500px;
+										    width: 80%;
+										    box-sizing: none;
+										    margin-left:100px;
+}
+                                    #fluid{ 
+                                        border: 2px solid#c32929bf;
+                                        color: #c32929bf;
+                                        padding-right: 5px;
+                                        padding-left: 5px;
+                                        margin-right: -10px;
+                                        margin-left: 10px;
+}
+                                .row{
+	                                  margin-top: -30px;
+	                                  float: right;
+}
+                                #about{
+                                        color:#c32929bf;
+                                        margin-left: 20px;
+                                        margin-right: 10px;
+}
+                                  
+						        img{
+									 width: 50%; 
+									 margin-top: -5px; 
+									 border: none;
+									 margin-top:-50px;
+} 
+                                     h1,p{
+									 color: white;
+									 text-align: center;
+									 font-weight: medium;
+									 font-size: 5px;
+									 padding: 3px;
+} 
+								.container h1{
+		                                      color: white;
+								              margin-top: 100px;
+}
+                                         
+                                h3{ 
+                                    margin-top:5px;
+                                    margin-left: 100px;
+                                    font-size: 10px;
+                                    color: white;
+}
+                                 footer{
+  	                                        border:5px solid #7d2e2c;
+  	                                        background-color:#7d2e2c;
+  	                                        margin-top: -25px;
+  	                                        width:80%;
+  	                                        margin-left:100px;
+}
+                                 code{
+                                      background-color:#7d2e2c;
+                                      color:white;
+                                      font-size:10px;
+                                      font-weight:medium;
+                                      font-size: x-small;
+}
+                                #style{ 
+										width:13px; 
+										float: right;
+										margin-right:200px;
+										margin-top:-25px;
+										border:none;
+									    border-radius: none;
+										background-color:#7d2e2c;
+										background-size: contain;
+}
+							.tweeter{
+									  width: 15px;
+									  position:relative; 
+									 float:right;
+									 border:none;
+									 margin-top:-25px;
+									 margin-right: 150px;
+									 color: green;
+}
+							 .linkedin{
+										width:13px; 
+									   float: right;
+									   border:none;
+									  margin-top: -25px;
+									  margin-right: 100px;
+									  color: #7d2e2c;
+}
+							    .instagram{ 
+										    width: 20px; 
+											float: right;
+										    margin-top:-25px;
+										    background-color: #7d2e2c;
+											border: none;
+										     margin-right: 50px;
+}
+          #me#me{
+          	     color: red;
+          }

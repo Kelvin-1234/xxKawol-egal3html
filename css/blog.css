@@ -1,0 +1,9 @@
+body{
+	background-color:pink;
+}
+.row{
+  height: 10px;
+ }
+ #info{
+ 	border:5px solid black;
+ }

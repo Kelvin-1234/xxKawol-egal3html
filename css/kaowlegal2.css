@@ -1,0 +1,211 @@
+                                     .container{
+                                     	         margin-top: 40px;
+                                     }
+
+                                     .fonts{                 
+			          	                          float: right;
+                        										background-color:#7d2e2c;
+                        										position: absolute;
+                        										width:91%;
+                        										height: 50px;
+                        										margin-top: 5px;
+                        										margin-right: 200px;
+                        										margin-left: 45px;
+}
+                                       .body h4{
+                            										 font-size: 15px;
+                            										font-weight:bold;
+                            									    position: relative;
+                            									    margin-top:15px;
+}
+                            					         h4{
+                            					            text-align: center;
+                            								margin-right:100px;
+                            								margin-top: 60px;
+}
+                                     .enter{    
+                                           display: flex;
+	                                        flex-direction: column;
+    	                                    width:92%;
+                      										border: 5px ;
+                      										height: 600px;
+                      										margin-left: 20px;
+                      										margin-right: 50px;
+                      										margin-left: 50px;
+                      										margin-top: -5px;
+                      										background-color:#8080803b;
+                      										background-size: cover;
+    }
+ 
+                  										 article{
+                  										 	display: flex;
+                  										 	border:none;
+                  										 	margin-top:45px;
+                  										 	width: 100%;
+                  										 	height: 300px;
+ }       
+                                         code{
+                                      background-color:#7d2e2c;
+                                      color:white;
+                                      font-size:13px;
+                                      font-family: sans-serif;
+                                      letter-spacing: 2px;
+}
+                                     h3{
+                                     	font-family: sans-serif;
+                                     	padding: 2px;
+                                     	margin-left: 10px;
+
+                                     }
+                                   
+									 
+							     #style{ 
+										width:15px; 
+										float: right;
+										margin-right:200px;
+										margin-top:-35px;
+										border:none;
+									    border-radius: none;
+										background-color:#7d2e2c;
+										background-size: contain;
+}
+							 .linkedin{
+										width:15px; 
+									   float: right;
+									   border:none;
+									  margin-top: -42px;
+									  margin-right: 100px;
+									  color: #7d2e2c;
+}
+							    .instagram{ 
+										    width: 25px; 
+											float: right;
+										    margin-top:-40px;
+										    background-color: #7d2e2c;
+											border: none;
+										     margin-right: 30px;
+}
+                                        .tweeter{
+									  width: 25px;
+									  position:relative; 
+									 float:right;
+									 border:none;
+									 margin-top:-45px;
+									 margin-right: 140px;
+									 color: green;
+}
+                                  .row{
+ 	                                    border: 5px solid #7d2e2c;
+ 	                                    width:89%;
+ 	                                    height: 35px;
+                                        color: #c32929bf;
+                                        background:#7d2e2c;
+                                        padding-right: 5px;
+                                        padding-left: 20px;
+                                        margin-right: 250px;
+                                        margin-left: 50px;
+                                        float: left;
+                                        display: inline-block;
+ }
+
+                                .col-md-12{
+                                	margin-left: 420px; 
+                                	margin-top: 20px; 
+                                	color: blue; 
+                                	font-family: sans-serif;
+                                	font-size:20px;
+                                	word-spacing: 5px;
+                                	letter-spacing: 2px;
+                                	padding: 1%;
+}
+                            .col-md-12>h4{
+                            	          margin-top:-160px;
+                            	          color: blue;
+                            	          float: left;
+                            	          margin-left: 10px;
+                            	          display: block;
+                            	          font-size: 20px;
+                            	          line-height: 1pt;
+                            	          word-spacing: 10pt;
+                            	          letter-spacing: 5px;
+                            	          padding-left: 1%;
+                            	          font-variant: normal;
+}
+                            .col-md-12 h4+p{
+                            	            margin-top: -140px;
+                            	            color:black;
+                            	            font-family: sans-serif;
+                            	            margin-left: 10px;
+                            	            font-size:12px;
+                            	            word-spacing: 5px;
+                            	            line-height: 100%;
+                            	            letter-spacing: 5px;
+                            	            padding: 1%;
+} 
+                        
+							#class{
+								color: black;
+								   margin-left: 12px;
+								   font-size: 11px;
+								   font-family: sans-serif;
+								   letter-spacing: 1px;
+								   word-spacing: 1px;
+								   padding: 1px;
+								   width: 14%;
+								   margin-top: 15px;
+}
+							#me{
+								   color: black;
+								   margin-left: 15px;
+								   font-size: 11px;
+								   font-family: sans-serif;
+								   letter-spacing: 1px;
+								   word-spacing: 1px;
+								   padding: 1px;
+								   width: 14%;
+
+}
+                           .clear{
+                           	      color:blue;
+                           	      display: inline-block;
+                           	      margin-left: 449px;
+                           	      font-family: sans-serif;
+                           	      font-size: 20px;
+                           	      word-spacing: 5px;
+                           	      letter-spacing: 5px;
+                           	      padding: 1px;
+}
+								.small{
+									    margin-top: 450px;
+									    position: absolute;
+} 
+                              .small h4+p{
+                              	            margin-left: 450px;
+                              	            display: inline-block;
+                              	            margin-top:-5px;
+                              	            font-family: sans-serif;
+                              	            font-size: 13px;
+                              	            letter-spacing: 2px;
+                              	            word-spacing: 2px;
+                              	            padding: 1px;
+}
+                               .me{
+                               	   font-family:sans-serif;
+                               	   font-size: 12px;
+                               	   margin-top: 25px;
+                               	   letter-spacing: 2px;
+                               	   word-spacing: 2px;
+                               	   padding: 1px;
+                               	   width: 15%;
+                               	   display: inline-block;
+}                                  
+                                 footer{
+                                 margin-top: -90px;
+                                 display: inline-block;
+                                 width: 100%; 
+                                 height: 50px;
+                                 float: right;
+                                 margin-left: 0px;
+                                 border: 2px solid #7d2e2c;
+                                 background-color: #7d2e2c;
+}
